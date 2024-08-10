@@ -1,0 +1,15 @@
+types pf styling
+splitting css
+inline css
+js or 'css'
+conditional inline styling ex
+task: label invalid
+css modules
+
+styled components
+styled.html``
+styled+props
+styled conditionally
+task: invalid
+header styled
+task: button
