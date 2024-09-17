@@ -1,0 +1,11 @@
+installation
+task: get places with fetch
+task: setplaces
+img debug
+async await
+task: loader
+error hadnling
+try catch
+setError
+task: sorting places
+http.js
