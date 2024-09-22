@@ -1,0 +1,8 @@
+why custom hooks
+function splitting
+useFetch
+states managing
+returnong states
+initialValue
+setState fns
+available reusage
