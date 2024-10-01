@@ -1,0 +1,33 @@
+states:
+	local state
+	cross-compo state
+	app-wide state
+
+redux vs context
+simpler syntax
+performance
+
+rules:
+1store
+components never change the date(we use reducers for that)
+dispatch makes reducer fn to action
+
+using redux
+createStore
+reducer 2 arguments and it is a PURE fn
+create "compo"
+subcribe
+
+test
+dispatch
+
+
+working on react
+react-redux
+state creation
+task: counter 2.0
+adding store to app
+
+task: convert to class-app
+mapStateToProps === useSelector
+mapDispatchToProps === useDispatch
